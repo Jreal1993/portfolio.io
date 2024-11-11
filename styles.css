@@ -202,6 +202,7 @@ nav ul li a:hover {
 
 .projects-container {
     display: flex;
+    align-items: center;
     justify-content: space-around;
     gap: 20px;
     flex-wrap: wrap;
@@ -213,7 +214,7 @@ nav ul li a:hover {
     border-radius: 8px;
     padding: 20px;
     text-align: center;
-    width: 22%;
+    width: 300px;
     margin-bottom: 20px;
 }
 
